@@ -1,3 +1,4 @@
 # spring-cloud-sample
 
-![euraka](euraka.png)
+![server](images/service.png)
+![eureka](images/eureka.png)
