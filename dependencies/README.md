@@ -1,4 +1,4 @@
-#### 技术要点
+#### 统一的依赖管理
 
 - parent：继承了 Spring Boot 的 Parent，表示我们是一个 Spring Boot 工程
 - package：pom，表示该项目仅当做依赖项目，没有具体的实现代码
