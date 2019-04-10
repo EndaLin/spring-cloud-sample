@@ -13,13 +13,14 @@
 - ZuuI API网关
 
 #### 部分运行截图
-服务开启
-![server](images/service.png)
-![eureka](images/eureka.png)
+- 服务开启  
+![server](images/service.png)  
+![eureka](images/eureka.png)  
 
-熔断器仪盘表
+- 熔断器仪盘表  
 ![dashboard](images/hystrix_dashboard.PNG)
+![args](http://blog.funtl.com:8080/assets/20171123110838020.png)
 
 
 #### 推荐李卫民老师的教学视频
-地址：[李卫民老师的个人博客](http://www.funtl.com/)
+地址：[李卫民老师的个人博客](http://blog.funtl.com:8080/2018/04/07/contents/Java-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84/)
