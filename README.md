@@ -1,5 +1,14 @@
 # spring-cloud-sample
 
+#### 技术要点
+- Maven
+- Spring Boot
+- Eureka 服务注册中心
+- Ribbon 服务消费者
+- Feign 服务消费者 
+- Hystrix 熔断器
+
+#### 部分运行截图
 ![server](images/service.png)
 ![eureka](images/eureka.png)
 
