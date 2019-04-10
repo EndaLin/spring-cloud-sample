@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @author wt
  * @create 2019-04-08 下午9:29
  */
-@FeignClient(value = "service-admin")
+@FeignClient(value = "service-admin", fallback = AdminServiceHystrix.class)
 public interface AdminService {
 
     @GetMapping(value = "admin")
