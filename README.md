@@ -1,5 +1,7 @@
 # spring-cloud-sample
+![示意图](images/ZuuI.png)
 
+解释： 在 Spring Cloud 微服务系统中，一种常见的负载均衡方式是，客户端的请求首先经过负载均衡（Zuul、Ngnix），再到达服务网关（Zuul 集群），然后再到具体的服。服务统一注册到高可用的服务注册中心集群，服务的所有的配置文件由配置服务管理，配置服务的配置文件放在 GIT 仓库，方便开发人员随时改配置。
 #### 技术要点
 - Maven
 - Spring Boot
@@ -7,10 +9,16 @@
 - Ribbon 服务消费者
 - Feign 服务消费者 
 - Hystrix 熔断器
+- Hystrix 熔断器仪盘表监控
+- ZuuI API网关
 
 #### 部分运行截图
+服务开启
 ![server](images/service.png)
 ![eureka](images/eureka.png)
+
+熔断器仪盘表
+![dashboard](images/hystrix_dashboard.PNG)
 
 
 #### 推荐李卫民老师的教学视频
