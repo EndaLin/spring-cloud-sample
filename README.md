@@ -10,7 +10,7 @@
 - Feign 服务消费者 
 - Hystrix 熔断器
 - Hystrix 熔断器仪盘表监控
-- ZuuI API网关
+- Zuul API网关
 
 #### 部分运行截图
 - 服务开启  
