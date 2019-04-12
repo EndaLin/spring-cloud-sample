@@ -26,4 +26,4 @@
 地址：[李卫民老师的个人博客](http://blog.funtl.com:8080/2018/04/07/contents/Java-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84/)
 
 #### 待解决的问题
-- Zuul 网关路由回调失效
+- 暂无
