@@ -18,3 +18,26 @@ zuul:
     api-b:
       path: /api/b/**
       serviceId: client-admin-ribbon
+
+hystrix:
+  command:
+    client-admin-feign:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 3000
+    client-admin-ribbon:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 3000
+
+client-admin-feign:
+  ribbon:
+    ReadTimeout : 3000
+    ConnectTimeout : 3000
+
+client-admin-ribbon:
+  ribbon:
+    ReadTimeout : 3000
+    ConnectTimeout : 3000
