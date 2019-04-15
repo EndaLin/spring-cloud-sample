@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: spring-cloud-config
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/wt-git-repository/spring-cloud-sample
+          search-paths: config
+          username: account
+          password: password
+
+
+# 这里不能直接修改端口, 默认8888
+server:
+  port: 8888
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
