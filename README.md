@@ -12,6 +12,7 @@
 - Hystrix 熔断器仪盘表监控
 - Zuul API网关
 - 分布式配置中心
+- Zipkin 链路追踪
 
 #### 部分运行截图
 - 服务开启  
@@ -22,6 +23,8 @@
 ![dashboard](images/hystrix_dashboard.PNG)
 ![args](http://blog.funtl.com:8080/assets/20171123110838020.png)
 
+- Zipkin 链路追踪
+![链路追踪](images/zipkin.png)
 
 #### 推荐李卫民老师的教学视频
 地址：[李卫民老师的个人博客](http://blog.funtl.com:8080/2018/04/07/contents/Java-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84/)

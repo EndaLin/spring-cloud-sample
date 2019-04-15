@@ -6,5 +6,8 @@
     <file url="file://$PROJECT_DIR$/dependencies" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudconfig" charset="UTF-8" />
   </component>
 </project>

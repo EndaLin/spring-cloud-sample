@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/dependencies/spring-cloud-dependencies.iml" filepath="$PROJECT_DIR$/dependencies/spring-cloud-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/eureka/spring-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-sample.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin/spring-cloud-zipkin.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin/spring-cloud-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-zuul/spring-cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconfig/springcloudconfig.iml" filepath="$PROJECT_DIR$/springcloudconfig/springcloudconfig.iml" />
     </modules>
   </component>
 </project>
