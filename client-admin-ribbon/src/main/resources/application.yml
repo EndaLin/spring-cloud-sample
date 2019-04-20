@@ -1,6 +1,10 @@
 spring:
   application:
     name: client-admin-ribbon
+  boot:
+    admin:
+      client:
+        url: http://localhost:8084
   thymeleaf:
     cache: false
     mode: LEGACYHTML5
