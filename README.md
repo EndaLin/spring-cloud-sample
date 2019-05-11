@@ -28,7 +28,7 @@
 ![链路追踪](images/zipkin.png)
 
 - 监控
-![监控](images/admin.png)
+![监控](images/admin.PNG)
 
 #### 推荐李卫民老师的教学视频
 地址：[李卫民老师的个人博客](https://www.funtl.com)
