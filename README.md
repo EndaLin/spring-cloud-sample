@@ -7,7 +7,7 @@
 - Spring Boot
 - Eureka 服务注册中心
 - Ribbon 服务消费者
-- Feign 服务消费者 
+- Feign 服务消费者
 - Hystrix 熔断器
 - Hystrix 熔断器仪盘表监控
 - Zuul API网关
@@ -28,7 +28,7 @@
 ![链路追踪](images/zipkin.png)
 
 - 监控
-![监控](images/监控.png)
+![监控](images/admin.png)
 
 #### 推荐李卫民老师的教学视频
 地址：[李卫民老师的个人博客](https://www.funtl.com)
